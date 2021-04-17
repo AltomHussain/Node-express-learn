@@ -1,0 +1,24 @@
+{
+  "name": "Node-express-learn",
+  "version": "1.0.0",
+  "description": "to create standard gitignore file and it comes ready with everything need to be ignored like the one i have here",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AltomHussain/Node-express-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AltomHussain/Node-express-learn/issues"
+  },
+  "homepage": "https://github.com/AltomHussain/Node-express-learn#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
